@@ -1,0 +1,6 @@
+{
+	"editor.formatOnSave": true,
+	"prettier.printWidth": 50,
+	"prettier.proseWrap": "always",
+	"prettier.trailingComma": "all"
+}
